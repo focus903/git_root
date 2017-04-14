@@ -12,4 +12,7 @@ Git has a mutable index called stage
 
 33333333333333
 
-reating a new branch is quick and simple.
+reating a new branch is quick and simple
+
+
+branch manage.
