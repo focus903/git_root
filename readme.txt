@@ -10,6 +10,6 @@ aaaaaaaa
 
 Git has a mutable index called stage
 
-1111111111111
+2222222222222
 
 Creating a new branch is quick AND simple.
